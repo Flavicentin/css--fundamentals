@@ -1,0 +1,10 @@
+p {
+    width: 30%;
+  }
+  
+  nav {
+    background: rgb(190, 75, 33);
+    color: white;
+    position: sticky;
+    top: 10px;
+  }
