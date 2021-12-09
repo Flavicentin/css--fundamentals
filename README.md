@@ -1,7 +1,7 @@
 # CSS Fundamentos
 
 ## ✔Position
-### Relative
+### 1️⃣ Relative
 `position: relative;`
 
 Quando utilizada ela, no começo aparentemente não acontece nada, porém "Ativamos" 4 propriedades: 
@@ -10,7 +10,7 @@ Quando utilizada ela, no começo aparentemente não acontece nada, porém "Ativa
 `left`
 `bottom` 
 
-### Absolute
+###  2️⃣  Absolute
 `position: absolute;`
 
 Ele sai do fluxo normal do documento HTML, e acaba ficando com seu próprio fluxo de posicionamento na página. 
@@ -38,7 +38,7 @@ Mas se eu quiser que ele fique com a propriedade absoluto, mas relativo à algum
 ![image](https://user-images.githubusercontent.com/69365572/145476591-8a0e3ead-88f0-4590-af7d-b50d83aff074.png)
 
 
-### Fixes
+### 3️⃣ Fixed
 `position: fixed;`
 
 Ele vai deixar o nosso conteúdo fixo na página, então quando a gente descer a página, o conteúdo vai estar ali fixo. Como na propriedade relative, podemos usar os 4 elementos
